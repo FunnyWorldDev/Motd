@@ -1,0 +1,4 @@
+name: Motd
+version: '${project.version}'
+main: com.oftx.motd.Motd
+api-version: '1.20'
